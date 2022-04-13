@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/isaacRaphael/kcamptask/static/css/main.a9f820f1.css",
+    "main.css": "/isaacRaphael/kcamptask/static/css/main.c47dc95a.css",
     "main.js": "/isaacRaphael/kcamptask/static/js/main.48ba46fa.js",
     "index.html": "/isaacRaphael/kcamptask/index.html",
-    "main.a9f820f1.css.map": "/isaacRaphael/kcamptask/static/css/main.a9f820f1.css.map",
+    "main.c47dc95a.css.map": "/isaacRaphael/kcamptask/static/css/main.c47dc95a.css.map",
     "main.48ba46fa.js.map": "/isaacRaphael/kcamptask/static/js/main.48ba46fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9f820f1.css",
+    "static/css/main.c47dc95a.css",
     "static/js/main.48ba46fa.js"
   ]
 }
