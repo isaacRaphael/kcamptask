@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import './bootstrap/css/bootstrap.min.css';
 
 
 function App() {
@@ -22,7 +23,7 @@ function App() {
 
   return (
     <div className="App d-flex w-100 justify-content-center align-items-start" style={{height : "100%"}}>
-      <form 
+      <form
       
       onSubmit={(event)=> handleSubmit(event)}
       className="container w-lg-50 card p-lg-5 p-4 m-3 shadow">
